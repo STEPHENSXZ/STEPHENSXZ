@@ -3,20 +3,21 @@
   <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74EBF&width=435&lines=welcome+to+my+git;have+a+good+day!" alt="Typing SVG" /></a>
     </a>
-  </div>
+
 
 ### Contribution calender
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
-<!--BILIBILI卡片-->
-<img src="https://stats.justsong.cn/api/bilibili/?id=86920091&theme=cobalt&show_icons=true"/>
+
 <!-- 技术栈卡片-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHENSXZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=STEPHENSXZ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<!--BILIBILI卡片-->
+<img src="https://stats.justsong.cn/api/bilibili/?id=86920091&theme=cobalt&show_icons=true"/>
 
-
-
+ </div>
+  
 <div align="center"> 🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮</div>
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
