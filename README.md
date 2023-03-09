@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=STEPHENSXZ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=STEPHENSXZ&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 技术栈卡片-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHENSXZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
