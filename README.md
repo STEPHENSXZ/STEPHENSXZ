@@ -8,28 +8,38 @@
 ### Contribution calender
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
-
   
-  <!-- 技术栈卡片-->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHENSXZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
- 
- 
- 
+<!--BILIBILI卡片-->
+<img src="https://stats.justsong.cn/api/bilibili/?id=86920091&theme=cobalt&show_icons=true"/>
+<!-- 技术栈卡片-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHENSXZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=STEPHENSXZ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
 
 
-
-<！--github卡片-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=STEPHENSXZ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<！--bilibili卡片-->
-<img src="https://stats.justsong.cn/api/csdn?id=qq_41735564"> <img src="https://stats.justsong.cn/api/bilibili/?id=86920091&theme=cobalt&show_icons=true"> 
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 <div align="center"> 🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮</div>
-![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<div align="center" >
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+
+<!--  skill badge 技能徽章 -->
+🧠 略懂
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+🧠 技术栈
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
@@ -79,3 +89,9 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
