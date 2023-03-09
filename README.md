@@ -2,7 +2,6 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74EBF&width=435&lines=welcome+to+my+git;have+a+good+day!" alt="Typing SVG" /></a>
-    </a>
 
 
 ### Contribution calender
