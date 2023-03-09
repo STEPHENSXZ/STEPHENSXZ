@@ -5,8 +5,8 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=STEPHENSXZ" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=STEPHENSXZ&theme=xcode" /> </div>
 
+![](https://img.shields.io/badge/python-3.9-orange)
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_41735564"> </div>
 
 <!--
